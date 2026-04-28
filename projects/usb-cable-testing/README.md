@@ -8,13 +8,15 @@ Some USB cables charged devices more slowly than others or showed unstable conne
 
 ## Goal
 
-The goal was to find out which cables were reliable and why some cables performed worse.
+The goal was to identify unreliable cables and separate cable problems from charger or device problems.
 
 ## Method
 
-USB testers were used to compare charging behavior and identify unstable or weak cables.
+A USB cable tester was used to check cables instead of judging them only by appearance.
 
-The focus was on checking whether the problem came from the cable instead of the charger or the device.
+## Result
+
+Several cables with cable breaks or unstable connections could be identified.
 
 ## What this project shows
 
@@ -26,6 +28,6 @@ This project shows a practical measurement-based approach:
 - Separate cable problems from charger or device problems
 - Make a practical decision based on measurements
 
-## Status
+## Image
 
-Additional measurements, photos, and notes can be added later.
+![USB cable tester](../../1.jpg)
