@@ -4,9 +4,7 @@ This repository documents my privat technical projects focused on systematic pro
 
 ## Projects
 
-- [Bluetooth RSSI antenna position test](projects/bluetooth-rssi-antenna-position-test)
-- [X-ray USB charger inspection](projects/xray-usb-charger-inspection/)
-- [USB cable testing](projects/usb-cable-testing/)
-- [Laser printer root cause analysis](projects/laser-printer-root-cause-analysis/)
-
-
+- Bluetooth RSSI antenna position test
+- X-ray USB charger inspection
+- USB cable testing
+- Laser printer root cause analysis
