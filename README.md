@@ -9,8 +9,10 @@ The goal of this portfolio is to show how technical problems are approached in a
 ## Project overview
 
 - [Bluetooth RSSI Antenna Position Test](projects/bluetooth-rssi-antenna-position-test/)
-- [X-ray USB Charger Inspection](projects/xray-usb-charger-inspection/)
 - [USB Cable Testing](projects/usb-cable-testing/)
+- [USB Power Check](projects/usb-trigger-charging-check/)
+- [X-ray USB Charger Inspection](projects/xray-usb-charger-inspection/)
+- [Quartz Watch PCB Inspection](projects/quartz-watch-pcb-inspection/)
 - [Laser Printer Root Cause Analysis](projects/laser-printer-root-cause-analysis/)
 
 ## Repository structure
@@ -18,19 +20,40 @@ The goal of this portfolio is to show how technical problems are approached in a
 ```text
 process-analysis-and-root-cause-projects/
 ├── README.md
+├── 1.jpg
+├── 2.jpg
+├── 3.jpg
+├── 4.jpg
+├── 5.jpg
+├── 6.jpg
+├── 7.jpg
+├── 8.jpg
 └── projects/
     ├── bluetooth-rssi-antenna-position-test/
     │   ├── README.md
     │   └── bt_signal_live.py
+    ├── usb-cable-testing/
+    │   └── README.md
+    ├── usb-trigger-charging-check/
+    │   └── README.md
     ├── xray-usb-charger-inspection/
     │   ├── README.md
     │   └── images/
     │       └── .gitkeep
-    ├── usb-cable-testing/
+    ├── quartz-watch-pcb-inspection/
     │   └── README.md
     └── laser-printer-root-cause-analysis/
         └── README.md
 ```
+
+## Image mapping
+
+The currently uploaded images are still stored in the repository root and can be moved into the matching project folders later.
+
+- `1.jpg` belongs to [USB Cable Testing](projects/usb-cable-testing/)
+- `2.jpg` belongs to [USB Power Check](projects/usb-trigger-charging-check/)
+- `3.jpg`, `4.jpg`, `5.jpg`, and `6.jpg` belong to [Quartz Watch PCB Inspection](projects/quartz-watch-pcb-inspection/)
+- `7.jpg` and `8.jpg` belong to [X-ray USB Charger Inspection](projects/xray-usb-charger-inspection/)
 
 ## Focus
 
