@@ -32,10 +32,10 @@ This project shows a systematic inspection approach:
 
 ## Images
 
-![Quartz watch assembly front](../../3.jpg)
+![Quartz watch assembly front](images/quartz-watch-front.jpg)
 
-![Quartz watch PCB inspection image](../../4.jpg)
+![Quartz watch PCB inspection image](images/quartz-watch-xray.jpg)
 
-![Quartz watch PCB](../../5.jpg)
+![Quartz watch PCB](images/quartz-watch-pcb.jpg)
 
-![Quartz watch side view](../../6.jpg)
+![Quartz watch side view](images/quartz-watch-side-view.jpg)
