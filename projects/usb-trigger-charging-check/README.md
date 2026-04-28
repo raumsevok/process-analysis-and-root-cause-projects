@@ -1,4 +1,4 @@
-# USB Trigger Charging Check
+# USB Power Check
 
 This project documents a practical USB power diagnosis using a USB trigger and a USB meter.
 
@@ -27,6 +27,6 @@ This project shows a practical diagnostic approach:
 - Compare expectation and result
 - Decide whether further troubleshooting is useful
 
-## Images
+## Image
 
-Images can be added to the `images` folder.
+![USB trigger and meter](../../2.jpg)
