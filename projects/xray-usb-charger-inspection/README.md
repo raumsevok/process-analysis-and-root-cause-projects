@@ -26,6 +26,14 @@ This project shows a systematic approach to technical inspection:
 - Use measurement or inspection tools to make hidden structures visible
 - Document observations clearly
 
+## Reference and inspiration
+
+The decision to inspect and compare USB chargers was partly inspired by the charger test overview on lygte-info.dk:
+
+https://lygte-info.dk/info/ChargerIndex%20UK.html
+
+The page showed how strongly USB chargers can differ in construction and quality. My own project focused on a non-destructive visual inspection using an X-ray device at university.
+
 ## Status
 
 Documentation and images can be added later.
