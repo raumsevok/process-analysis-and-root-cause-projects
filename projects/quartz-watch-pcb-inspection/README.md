@@ -32,4 +32,10 @@ This project shows a systematic inspection approach:
 
 ## Images
 
-Images can be added to the `images` folder.
+![Quartz watch assembly front](../../3.jpg)
+
+![Quartz watch PCB inspection image](../../4.jpg)
+
+![Quartz watch PCB](../../5.jpg)
+
+![Quartz watch side view](../../6.jpg)
