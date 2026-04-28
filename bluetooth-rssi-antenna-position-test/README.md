@@ -103,5 +103,6 @@ Press Ctrl+C to stop the program.
 
 Note
 
-For classic Bluetooth audio headsets, hcitool rssi usually returns a relative
-RSSI link value in dB. It is not an absolutely calibrated dBm value.
+## Note
+
+Parts of the code were developed with assistance from OpenAI Codex. The project idea, testing, measurements, evaluation, and documentation were done by Thomas Ganslmeier.
