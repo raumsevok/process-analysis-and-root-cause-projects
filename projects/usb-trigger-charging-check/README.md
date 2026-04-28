@@ -29,4 +29,4 @@ This project shows a practical diagnostic approach:
 
 ## Image
 
-![USB trigger and meter](../../2.jpg)
+![USB trigger and meter](images/usb-power-check.jpg)
