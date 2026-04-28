@@ -1,6 +1,6 @@
 # Process Analysis and Root Cause Projects
 
-This repository documents hands-on technical projects focused on systematic problem analysis, measurement and testing based investigation, root cause finding, and process improvement.
+This repository documents my privat technical projects focused on systematic problem analysis, measurement and testing based investigation, root cause finding, and process improvement.
 
 ## Projects
 
