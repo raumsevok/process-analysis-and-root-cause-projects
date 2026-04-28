@@ -36,6 +36,6 @@ The page showed how strongly USB chargers can differ in construction and quality
 
 ## Images
 
-![USB charger front view](../../7.jpg)
+![USB charger front view](images/usb-charger-front.jpg)
 
-![USB charger angled view](../../8.jpg)
+![USB charger angled view](images/usb-charger-angled.jpg)
