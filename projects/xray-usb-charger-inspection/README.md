@@ -34,6 +34,8 @@ https://lygte-info.dk/info/ChargerIndex%20UK.html
 
 The page showed how strongly USB chargers can differ in construction and quality. My own project focused on a non-destructive visual inspection using an X-ray device at university.
 
-## Status
+## Images
 
-Documentation and images can be added later.
+![USB charger front view](../../7.jpg)
+
+![USB charger angled view](../../8.jpg)
