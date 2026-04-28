@@ -30,4 +30,4 @@ This project shows a practical measurement-based approach:
 
 ## Image
 
-![USB cable tester](../../1.jpg)
+![USB cable tester](images/usb-cable-tester.jpg)
