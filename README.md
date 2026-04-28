@@ -1,6 +1,6 @@
 # Process Analysis and Root Cause Projects
 
-This repository documents hands-on technical projects focused on systematic problem analysis, measurement-based investigation, root cause finding, and process improvement.
+This repository documents hands-on technical projects focused on systematic problem analysis, measurement and testing based investigation, root cause finding, and process improvement.
 
 ## Projects
 
@@ -9,10 +9,4 @@ This repository documents hands-on technical projects focused on systematic prob
 - [USB cable testing](projects/usb-cable-testing/)
 - [Laser printer root cause analysis](projects/laser-printer-root-cause-analysis/)
 
-## Focus
 
-- Observe
-- Measure
-- Analyze
-- Find the root cause
-- Improve the process
